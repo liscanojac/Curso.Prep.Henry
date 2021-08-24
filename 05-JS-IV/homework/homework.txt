@@ -1,0 +1,6 @@
+Objeto: Se podria decir que un objeto es como un auto. Cualquier auto tiene marca o fabricante, modelo, año de fabricacion, kilometraje, color, numero de asientos, etc. Lo que separa a los objetos es que como los autos los objetos pueden hacer cosas, son activos. Un auto puede ir hacia adelante, ir hacia atras, tocar la bocina,etc. Y los objetos pueden hacer lo mismo con los metodos.
+Propiedades: Son lo que es para el auto es el color, año, numero de asientos, numero de patente, etc. Es informacion que describe y es inherente al objeto.
+Metodos: es lo que puede hacer el objeto, los objeto como los autos son activos. Un auto puede encender los limpiaparabrisas, encender las luces, apagar la radio. Lo mismo ocurre con los objetos.
+El bucle for...in es un bucle que recorre las propiedades de un objeto. Siguiendo con la metafora del auto es como pedir en el concesionario que te lean todas las especificaciones tecnicas del auto que vas a comprar.
+La notacion de puntos es la forma mas usada porque es facil de leer y mas rapida de escribir se usa en la mayoria de los casos. Sin embargo, los corchetes se usan para cuando queremos buscar la propiedad o un metodo de un objeto usando una variable.
+

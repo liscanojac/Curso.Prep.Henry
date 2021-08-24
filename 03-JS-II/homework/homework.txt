@@ -1,0 +1,7 @@
+1. 'for': el for es como el comer, tu comes mientras siga habiendo comida en tu plato, es una actividad repetitiva porque siempre haces lo mismo, que es llevar comida del plato a tu boca, En el caso del for esta puede ser una o varias acciones. Y cuabndo la condicion de tener comida en plato ya no se cumple la accion se detiene.
+
+2. '&&' : esto lo que hace es evaluar 2 o mas condiciones y si ambas expresiones son ciertas se realizan una o mas acciones. Y esto es como cuando juegas futbol en la calle, tienes que tener 2 equipos y 1 pelota para que se juegue si una de estas 2 condiciones no se cumple no hay partidito.
+
+3. '||': en el or es que se puede evaluar 2 o mas expresiones y al menos una de ella tiene que ser cierta, para que se ejecute una accion, incluso todas las condiciones tienen que ser ciertas. Por ejemplo, para salir a jugar a la calle, necesitas el que tu papa o tu mama te den permiso, si alguno de los 2 te autoriza puedes salir y si ambos lo hacen tambien.
+
+4. '!': el ! es como el negativo de las fotos, te esta dando el color opuesto a lo que esta en la realidad. Con el ! pasa que te devuelve el negativo o lo opuesto de todo.

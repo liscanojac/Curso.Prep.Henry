@@ -1,0 +1,11 @@
+Explicación para un niño de 12 años:
+
+1. Variables: las variables son como cajas, estas cajas pueden tener numeros, letras o un conjunto de ellos. esa caja la usamos para almacenar ese algo que tiene valor para nosotros.
+
+2. Strings: los strings son como cuando jugamos al scrabble, que juntamos un conjunto de letras y a diferencia del scrabble simbolos tambien. Para poder utilizarlo luego pero asi como en el scrabble, en su conjunto.
+
+3. Funciones: imagina un mago, sabes que un mago toma una o varias cosas, en este caso son los argumentos de su funcion, luego el mago mete esas cosas en su sombrero y con un golpe de su varita y te retorna algo diferente, transformado poor esa funcion, en este caso la funcion es el sombrero del mago.
+
+4. Declaraciones 'if': son acciones o cambios a realizar si ocurre o no un evento. Por ejemplo, si me voy a dormir, debo cepillarme los dientes primero.
+
+5. Valores Booleanos: son valores que no admiten medias tintas, o algo es o no lo es. Por ejemplo piensa en una bombilla, esta encendida o apagada, no hay puntos intermedios o tiene electricidad fluyendo o no. 
